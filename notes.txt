@@ -3,3 +3,5 @@
 
 2. You see your friend pushed code to their repository with the commit message "done!". Is this a good commit message? Why or why not?
    A: No. It is not a good commit message because it does not clearly describe what changes were made. Commit messages should be specific and meaningful.
+
+Malak Husain
